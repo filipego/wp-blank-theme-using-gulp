@@ -1,8 +1,5 @@
 # Blank Theme For Wordpress Using Gulp
 
-## To run gulp
-gulp watch
-
 
 This is just empty theme for starting your Wordpress projects, with
 built in support for **Sass**, **Susy** and **Gulp.js**.
