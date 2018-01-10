@@ -1,0 +1,29 @@
+/* CSS Document */
+/*!
+Theme Name: Your Theme
+Description: Your Theme
+Version: 1.0
+Author: Filipe Valente
+The CSS, XHTML is released under GPL:
+http://www.opensource.org/licenses/gpl-license.php
+
+*/
+
+/* Vendor */
+@import "susy";
+@import "su";
+
+
+/* Setup */
+@import "reset";
+@import "mixins";
+@import "variables";
+@import "fonts";
+@import "globals";
+
+
+/* WP parts */
+@import "header";
+@import "homepage";
+@import "sidebar";
+@import "footer";
